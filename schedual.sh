@@ -1,4 +1,5 @@
 #!/bin/bash
+# sh schedule.sh uid.txt 30
 bigfile=$1
 thread=$2
 if [ -n "$bigfile" ] && [  -f "$bigfile" ]

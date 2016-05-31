@@ -1,2 +1,3 @@
 # shell_parallel
-tools: shell task support multiple thread 
+Tools: shell thread pool / schedule task support multiple thread
+
